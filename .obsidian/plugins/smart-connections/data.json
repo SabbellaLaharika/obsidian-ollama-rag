@@ -1,0 +1,6 @@
+{
+  "model_platform": "custom",
+  "llm_model": "llama3.2",
+  "llm_hostname": "localhost",
+  "llm_port": 11434
+}
