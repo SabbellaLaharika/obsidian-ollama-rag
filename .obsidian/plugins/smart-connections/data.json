@@ -2,5 +2,7 @@
   "model_platform": "custom",
   "llm_model": "llama3.2",
   "llm_hostname": "localhost",
-  "llm_port": 11434
+  "llm_port": 11434,
+  "installed_at": 1779796820140,
+  "last_version": "3.0.80"
 }
