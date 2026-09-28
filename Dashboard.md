@@ -1,3 +1,10 @@
+---
+tags: [dashboard, overview]
+---
+# Central Dashboard
+
+Quick Navigation: [[Mistake Patterns]] | [[Data Structures]]
+
 ```dataview
 TABLE file.mtime AS "Last updated", tags
 FROM #mistake
